@@ -1,2 +1,2 @@
-http://subdomain.cyclocrass.com/* /https://subdomain.cyclocrass.com/:splat
+http://subdomain.cyclocrass.com/* https://subdomain.cyclocrass.com/:splat
 

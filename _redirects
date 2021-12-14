@@ -1,2 +1,3 @@
 http://subdomain.cyclocrass.com/* https://subdomain.cyclocrass.com/:splat
+/pass-test/* https://cyclocrass.netlify.app/pass-test/:splat 302!
 
